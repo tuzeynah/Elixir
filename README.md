@@ -9,4 +9,5 @@ Releasing this because it has no meaning to me nowadays.
 * Java 8
 * Maven
 * Lombok
+* Spigot
  
